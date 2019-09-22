@@ -5,19 +5,19 @@
 An app that tracks wildlife at a local animal park, Rangers are able to spot animals, both endangered and non-endangered<br>then record them in a sightings record.
 <h4>Setup/Installation Requirements</h4>
 <ul>
-<li>This  needs a text editor like intellijIDEA<li>
-<li>Install Gradle and its dependencies <li>
-<li>Install postgres<li>
-<li>A github account in order to upload your projects.<li>
-<li>Can run on google chrome, Mozilla or any other browser<li>
+1.This  needs a text editor like intellijIDEA.
+<br>2.Install Gradle and its dependencies.
+<br>3.Install postgres<li>
+<br>4.A github account in order to upload your projects.
+<br>5.Can run on google chrome, Mozilla or any other browser.
 </ul>
 <h1>Behavior-driven development</h1>
 <h4>User stories :</h4>
 <ul>
-As a client I need an application to track two categories of wildlife; Animals and Endangered Animals
-As a client I need that each time an animal species of either category is seen, a Sighting must be reported
-The user should gather information by the use of forms.
-The user interface and the business logic should be separated.
+1.As a client I need an application to track two categories of wildlife; Animals and Endangered Animals
+<br>2.As a client I need that each time an animal species of either category is seen, a Sighting must be reported
+<br>3.The user should gather information by the use of forms.
+<br>4.The user interface and the business logic should be separated.
 </ul>
 
 <h4>scenario:</h4>
