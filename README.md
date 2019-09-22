@@ -7,7 +7,7 @@ An app that tracks wildlife at a local animal park, Rangers are able to spot ani
 <ul>
 1.This  needs a text editor like intellijIDEA.
 <br>2.Install Gradle and its dependencies.
-<br>3.Install postgres<li>
+<br>3.Install postgres.
 <br>4.A github account in order to upload your projects.
 <br>5.Can run on google chrome, Mozilla or any other browser.
 </ul>
