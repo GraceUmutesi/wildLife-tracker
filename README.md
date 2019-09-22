@@ -1,7 +1,8 @@
 # wildLife-tracker
 <h5>The application for the Forest Service to track animals during an environmental study. September 22,2019</h5> 
 <h5>By **Grace Umutesi**</h5>
-
+## Description
+An app that tracks wildlife at a local animal park, Rangers are able to spot animals, both endangered and non-endangered<br>then record them in a sightings record.
 ## Setup/Installation Requirements
 <ul>
 <li>This  needs a text editor like intellijIDEA<li>
@@ -13,10 +14,10 @@
 <h1>Behavior-driven development</h1>
 <h4>User stories :</h4>
 <ul>
-<li>As a client I need an application to track two categories of wildlife; Animals and Endangered Animals</li>
-<li>As a client I need that each time an animal species of either category is seen, a Sighting must be reported</li>
-<li>The user should gather information by the use of forms.</li>
-<li>The user interface and the business logic should be separated.</li>
+As a client I need an application to track two categories of wildlife; Animals and Endangered Animals
+As a client I need that each time an animal species of either category is seen, a Sighting must be reported
+The user should gather information by the use of forms.
+The user interface and the business logic should be separated.
 </ul>
 
 <h4>scenario:</h4>
