@@ -1,9 +1,9 @@
 # wildLife-tracker
 <h5>The application for the Forest Service to track animals during an environmental study. September 22,2019</h5> 
 <h5>By **Grace Umutesi**</h5>
-## Description
+<h4>Description</h4>
 An app that tracks wildlife at a local animal park, Rangers are able to spot animals, both endangered and non-endangered<br>then record them in a sightings record.
-## Setup/Installation Requirements
+<h4>Setup/Installation Requirements</h4>
 <ul>
 <li>This  needs a text editor like intellijIDEA<li>
 <li>Install Gradle and its dependencies <li>
